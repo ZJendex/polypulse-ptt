@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+
+set -ex
+matlab -nodisplay -r "addpath(genpath('.')); main"
+
+pip install -r src/requirements.txt
+python3 src/prepare_data.py ../data/example
+python3 src/test.py --checkpoint test_model.ckpt --leave_out_users example_user

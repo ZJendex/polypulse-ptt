@@ -1,0 +1,11 @@
+LnkParse3==1.5.2
+matplotlib==3.10.1
+numpy==2.2.5
+omegaconf==2.3.0
+pandas==2.2.3
+pytorch_lightning==2.5.0.post0
+PyYAML==6.0.2
+scipy==1.15.2
+torch==2.6.0
+torchinfo==1.8.0
+tqdm==4.66.5
