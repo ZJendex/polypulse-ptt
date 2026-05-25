@@ -135,6 +135,6 @@ If you use this code or data, please cite:
   author    = {Zhu, Jiangyifei and Yuan, Kuang and Prabhakara, Akarsh and Li, Yunzhi and Wang, Gongwei and Michaelsen, Kelly and Chan, Justin and Kumar, Swarun},
   journal   = {Nature Communications},
   year      = {2026},
-  doi       = {To be added}
+  doi       = {https://doi.org/10.1038/s41467-026-73453-x}
 }
 ```
