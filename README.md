@@ -5,7 +5,7 @@ Code repository for the paper:
 > **Measuring multi-site pulse transit time with an AI-enabled mmWave radar**
 > Jiangyifei Zhu\*, Kuang Yuan\*, Akarsh Prabhakara, Yunzhi Li, Gongwei Wang, Kelly Michaelsen, Justin Chan, Swarun Kumar
 > *Nature Communications*, 2026.
-> DOI: To be added
+> DOI: https://doi.org/10.1038/s41467-026-73453-x
 
 ## Abstract
 
